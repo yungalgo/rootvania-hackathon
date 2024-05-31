@@ -8,6 +8,7 @@ TagManager:
   - Music
   - Background
   - NoMask
+  - Star
   layers:
   - Default
   - TransparentFX
